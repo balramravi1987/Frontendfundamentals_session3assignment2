@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.banner {
+    height: 40px;
+    width: 100%;
+    background-color: darkslategray;
+}
+
+.lf-padding {
+   
+    display: inline-block;
+}
+
+ul {
+    list-style: none;
+}
